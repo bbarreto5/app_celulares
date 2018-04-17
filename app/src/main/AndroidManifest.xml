@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".agregar" />
+        <activity android:name=".ver_lista" />
+        <activity android:name=".reporte"></activity>
     </application>
 
 </manifest>

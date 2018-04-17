@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">app_celulares</string>
+    <string name="opciones">Opciones</string>
+    <string name="Agregar">Agregar a la lista</string>
+    <string name="ver">Ver lista</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="Reportes">Reportes</string>
+    <string name="Reporte1">Reporte 4</string>
+    <string name="Reporte2">Reporte 5</string>
+    <string name="numero">No.</string>
+    <string name="agregar2">Agregar</string>
+    <string name="m1">Dijite un numero</string>
+    <string name="m2">Numeros mayores a cero</string>
+    <string-array name="inicio">
+        <item>@string/Agregar</item>
+        <item>@string/ver</item>
+        <item>@string/Reportes</item>
+    </string-array>
+    <string name="apple">Apple</string>
+    <string name="nokia">Nokia</string>
+    <string-array name="marcas">
+        <item>@string/apple</item>
+        <item><string name="samsung">Samsung</string></item>
+        <item><string name="motorola">Motorola</string></item>
+        <item>@string/nokia</item>
+    </string-array>
+    <string name="negro">Negro</string>
+    <string name="resultado">Resultado</string>
+    <string-array name="colores">
+        <item><string name="blanco">Blanco</string></item>
+        <item><string name="gris">Gris</string></item>
+        <item>@string/negro</item>
+    </string-array>
 </resources>
